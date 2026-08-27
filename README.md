@@ -10,6 +10,7 @@ comments identifying the problems you find.
 ## Task 1: Code review (core task)
 
 1. Work through the Vulnerability Checklist below against the code.
+   - Check the Vulnerability Glossary at the bottom of this file if you are unsure
 2. For each item, decide whether it is present in this code.
 3. If it is present, note the line(s) where it occurs and briefly explain
    the risk it creates.
