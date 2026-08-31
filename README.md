@@ -44,7 +44,7 @@ comments identifying the problems you find.
 ## Task 2: Submit your review via GitHub Pull Request
 
 1. **Fork** this repository to your own GitHub account.
-2. **Clone** your fork to your computer, or edit the file directly on
+2. Either **Clone** your fork to your computer, or **edit the file directly** on
    GitHub in your fork.
 3. **Create a new branch**, e.g. `review-<yourname>`.
 4. Add a single marker line at the very top of `vulnerable_app.py`:
@@ -53,7 +53,7 @@ comments identifying the problems you find.
    ```
    This creates a small change so GitHub has something to display in your
    pull request.
-5. **Commit and push** your branch to your fork.
+5. **Commit (and push)** your branch to your fork.
 6. On GitHub, open a **Pull Request** from your branch back to this
    repository's `main` branch.
 7. On your PR page, open the **"Files changed"** tab. This shows the code
